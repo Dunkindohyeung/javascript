@@ -1,1 +1,4 @@
 [0114/231758.362:ERROR:directory_reader_win.cc(43)] FindFirstFile: ÁöÁ¤µÈ °æ·Î¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù. (0x3)
+[0117/162944.010:ERROR:directory_reader_win.cc(43)] FindFirstFile: ÁöÁ¤µÈ °æ·Î¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù. (0x3)
+[0118/001258.400:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\ì´ë„í˜•\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\dceb3fb5-d6e8-4246-9516-c615a2bee624: ÁöÁ¤µÈ °æ·Î¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù. (0x3)
+[0118/001258.416:ERROR:directory_reader_win.cc(43)] FindFirstFile: ÁöÁ¤µÈ °æ·Î¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù. (0x3)
